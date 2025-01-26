@@ -31,15 +31,15 @@
 
 | **Lệnh**                          | **Mô tả**                                                         | **Quyền hạn cần thiết** |
 |------------------------------------|-------------------------------------------------------------------|-------------------------|
-| `/senditem <tên người chơi>`       | Gửi vật phẩm đang cầm trên tay tới một người chơi khác (kể cả offline). | `offlineclaim.senditem` |
+| `/senditem <tên người chơi>`       | Gửi vật phẩm đang cầm trên tay tới một người chơi khác (kể cả offline). | `offlineclaim.admin`    |
 | `/claim`                           | Nhận lại tất cả vật phẩm được gửi cho bạn khi bạn offline.         | Không yêu cầu quyền     |
 
 ### **Ví dụ sử dụng**
 
 1. **Gửi vật phẩm cho người chơi khác**:
     - Hãy cầm vật phẩm bạn muốn gửi trên tay.
-    - Nhập lệnh: `/senditem Steve`.
-    - Nếu **Steve** offline, vật phẩm sẽ được lưu vào cơ sở dữ liệu để anh ta có thể nhận sau.
+    - Nhập lệnh: `/senditem ThatCorona`.
+    - Nếu **ThatCorona** offline, vật phẩm sẽ được lưu vào cơ sở dữ liệu để anh ta có thể nhận sau.
 
 2. **Nhận lại vật phẩm**:
     - Khi online, nhập lệnh: `/claim`.
