@@ -1,0 +1,7 @@
+name: OfflineClaim
+version: '{version}'
+main: me.typical.offlineclaim.OfflineClaimPlugin
+api-version: '1.20'
+commands:
+  claim:
+  senditem:
