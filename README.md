@@ -56,4 +56,5 @@ Plugin hỗ trợ cấu hình các tin nhắn gửi tới người chơi. Sau kh
 
 ej-technologies có JProfiler dùng rất ngon, tải đi b
 
-[![JProfiler](doc/img/jprofiler_medium.png)](http://www.ej-technologies.com/products/jprofiler/overview.html)
+[![JProfiler](![image](https://github.com/user-attachments/assets/6f178a11-a43b-43f9-93a5-b58e6a9dd457)
+)]([http://www.ej-technologies.com/profiler](https://www.ej-technologies.com/jprofiler))
