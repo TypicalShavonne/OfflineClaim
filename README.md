@@ -51,3 +51,9 @@
 
 ### **Cấu hình tin nhắn**
 Plugin hỗ trợ cấu hình các tin nhắn gửi tới người chơi. Sau khi khởi động lần đầu, file cấu hình sẽ được tạo tại:
+
+## Sponsors
+
+ej-technologies có JProfiler dùng rất ngon, tải đi b
+
+[![JProfiler](doc/img/jprofiler_medium.png)](http://www.ej-technologies.com/products/jprofiler/overview.html)
